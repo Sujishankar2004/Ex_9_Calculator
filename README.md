@@ -22,12 +22,14 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 /*
-```
 Program to print the text “calculator operation”.
 Developed by: SUJI S
-Registeration Number :212222040164
-```
+Registeration Number : 212222040164
 */
+
+
+
+
 ## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -177,6 +179,7 @@ Registeration Number :212222040164
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 ## MainActivity.java:
 ```
 package com.example.exp9;
@@ -271,8 +274,10 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/11d38252-9339-45cf-b0a8-26cb5e1a8e4b)
-![image](https://github.com/user-attachments/assets/adf86fdc-eab6-4109-bacb-91c714c7f22b)
+
+<img src="https://github.com/user-attachments/assets/11d38252-9339-45cf-b0a8-26cb5e1a8e4b" width=250>
+
+<img src="https://github.com/user-attachments/assets/adf86fdc-eab6-4109-bacb-91c714c7f22b" width=250>
 
 
 ## RESULT
